@@ -1,0 +1,844 @@
+{
+  "scope": "national",
+  "region": "Indonesia",
+  "category": "geography",
+  "questionType": "multiple-choice",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Apa nama Ibukota dari Provinsi Nanggroe Aceh Darussalam?",
+      "options": [
+        {
+          "label": "Banda Aceh",
+          "isCorrect": true
+        },
+        {
+          "label": "Lhokseumawe",
+          "isCorrect": false
+        },
+        {
+          "label": "Langsa",
+          "isCorrect": false
+        },
+        {
+          "label": "Sabang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Apa nama Ibukota dari Provinsi Sumatera Utara?",
+      "options": [
+        {
+          "label": "Labuhan Batu",
+          "isCorrect": false
+        },
+        {
+          "label": "Binjai",
+          "isCorrect": false
+        },
+        {
+          "label": "Medan",
+          "isCorrect": true
+        },
+        {
+          "label": "Batu Bara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Apa nama Ibukota dari Provinsi Sumatera Barat?",
+      "options": [
+        {
+          "label": "Bukit Tinggi",
+          "isCorrect": false
+        },
+        {
+          "label": "Solok",
+          "isCorrect": false
+        },
+        {
+          "label": "Padang",
+          "isCorrect": true
+        },
+        {
+          "label": "Payakumbuh",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Apa nama Ibukota dari Provinsi Riau?",
+      "options": [
+        {
+          "label": "Kampar",
+          "isCorrect": false
+        },
+        {
+          "label": "Siak",
+          "isCorrect": false
+        },
+        {
+          "label": "Bengkalis",
+          "isCorrect": false
+        },
+        {
+          "label": "Pekanbaru",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Apa nama Ibukota dari Provinsi Jambi?",
+      "options": [
+        {
+          "label": "Kerinci",
+          "isCorrect": false
+        },
+        {
+          "label": "Jambi",
+          "isCorrect": true
+        },
+        {
+          "label": "Batanghari",
+          "isCorrect": false
+        },
+        {
+          "label": "Tebo",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Apa nama Ibukota dari Provinsi Sumatra Selatan?",
+      "options": [
+        {
+          "label": "Palembang",
+          "isCorrect": true
+        },
+        {
+          "label": "Musi Banyuasin",
+          "isCorrect": false
+        },
+        {
+          "label": "Musi Rawas",
+          "isCorrect": false
+        },
+        {
+          "label": "Lubuk Linggau",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Apa nama Ibukota dari Provinsi Bengkulu?",
+      "options": [
+        {
+          "label": "Bengkulu",
+          "isCorrect": true
+        },
+        {
+          "label": "laur",
+          "isCorrect": false
+        },
+        {
+          "label": "Bengkulu Tengah",
+          "isCorrect": false
+        },
+        {
+          "label": "Bengkulu Utara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Apa nama Ibukota dari Provinsi Bengkulu?",
+      "options": [
+        {
+          "label": "Tulang Bawang",
+          "isCorrect": false
+        },
+        {
+          "label": "Tulang Bawang Barat",
+          "isCorrect": false
+        },
+        {
+          "label": "Bandar Lampung",
+          "isCorrect": true
+        },
+        {
+          "label": "Metro",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Apa nama Ibukota dari Provinsi Bangka Belitung?",
+      "options": [
+        {
+          "label": "Pangkal Pinang",
+          "isCorrect": true
+        },
+        {
+          "label": "Belitung",
+          "isCorrect": false
+        },
+        {
+          "label": "Bangka",
+          "isCorrect": false
+        },
+        {
+          "label": "Bangka Tengah",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Apa nama Ibukota dari Provinsi kepulauan Riau?",
+      "options": [
+        {
+          "label": "batam",
+          "isCorrect": false
+        },
+        {
+          "label": "Lingga",
+          "isCorrect": false
+        },
+        {
+          "label": "Tanjung Pinang",
+          "isCorrect": true
+        },
+        {
+          "label": "Bintan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Apa nama Ibukota dari Provinsi DKI Jakarta?",
+      "options": [
+        {
+          "label": "Jakarta Utara",
+          "isCorrect": false
+        },
+        {
+          "label": "Jakarta Pusat",
+          "isCorrect": true
+        },
+        {
+          "label": "Jakarta barat",
+          "isCorrect": false
+        },
+        {
+          "label": "Jakarta Selatan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Apa nama Ibukota dari Provinsi Jawa Barat?",
+      "options": [
+        {
+          "label": "Bandung",
+          "isCorrect": true
+        },
+        {
+          "label": "Bekasi",
+          "isCorrect": false
+        },
+        {
+          "label": "Bogor",
+          "isCorrect": false
+        },
+        {
+          "label": "Cianjur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Apa nama Ibukota dari Provinsi Jawa Tengah?",
+      "options": [
+        {
+          "label": "Banyumas",
+          "isCorrect": false
+        },
+        {
+          "label": "Kebumen",
+          "isCorrect": false
+        },
+        {
+          "label": "Magelang",
+          "isCorrect": false
+        },
+        {
+          "label": "Semarang",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Apa nama Ibukota dari Provinsi Yogyakarta?",
+      "options": [
+        {
+          "label": "Sleman",
+          "isCorrect": false
+        },
+        {
+          "label": "Bantul",
+          "isCorrect": false
+        },
+        {
+          "label": "Gunungkidul",
+          "isCorrect": false
+        },
+        {
+          "label": "Yogyakarta",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Apa nama Ibukota dari Provinsi Jawa timur?",
+      "options": [
+        {
+          "label": "Surabaya",
+          "isCorrect": true
+        },
+        {
+          "label": "Banyuwangi",
+          "isCorrect": false
+        },
+        {
+          "label": "Jember",
+          "isCorrect": false
+        },
+        {
+          "label": "Kediri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Apa nama Ibukota dari Provinsi Banten?",
+      "options": [
+        {
+          "label": "Tangerang",
+          "isCorrect": false
+        },
+        {
+          "label": "Serang",
+          "isCorrect": true
+        },
+        {
+          "label": "Pandeglang",
+          "isCorrect": false
+        },
+        {
+          "label": "Cilegon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Apa nama Ibukota dari Provinsi Bali?",
+      "options": [
+        {
+          "label": "Denpasar",
+          "isCorrect": true
+        },
+        {
+          "label": "Gianyar",
+          "isCorrect": false
+        },
+        {
+          "label": "Tabanan",
+          "isCorrect": false
+        },
+        {
+          "label": "Bulelang",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Apa nama Ibukota dari Provinsi Nusa Tenggara barat (NTB)?",
+      "options": [
+        {
+          "label": "Bima",
+          "isCorrect": false
+        },
+        {
+          "label": "Mataram",
+          "isCorrect": true
+        },
+        {
+          "label": "Lombok Barat",
+          "isCorrect": false
+        },
+        {
+          "label": "Lombok Timur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Apa nama Ibukota dari Provinsi Nusa Tenggara Timut (NTT)?",
+      "options": [
+        {
+          "label": "Kupang",
+          "isCorrect": true
+        },
+        {
+          "label": "Sikka",
+          "isCorrect": false
+        },
+        {
+          "label": "Manggarai",
+          "isCorrect": false
+        },
+        {
+          "label": "Malaka",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Apa nama Ibukota dari Provinsi Kalimantan Barat?",
+      "options": [
+        {
+          "label": "Singkawang",
+          "isCorrect": false
+        },
+        {
+          "label": "Ketapang",
+          "isCorrect": false
+        },
+        {
+          "label": "kapuas Hulu",
+          "isCorrect": false
+        },
+        {
+          "label": "Pontianak",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Apa nama Ibukota dari Provinsi Kalimantan Tengah?",
+      "options": [
+        {
+          "label": "Barito Selatan",
+          "isCorrect": false
+        },
+        {
+          "label": "Barito Utara",
+          "isCorrect": false
+        },
+        {
+          "label": "Palangkaraya",
+          "isCorrect": true
+        },
+        {
+          "label": "Kapuas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "text": "Apa nama Ibukota dari Provinsi Kalimantan Selatan?",
+      "options": [
+        {
+          "label": "Banjar Baru",
+          "isCorrect": true
+        },
+        {
+          "label": "Banjar",
+          "isCorrect": false
+        },
+        {
+          "label": "Banjarmasin",
+          "isCorrect": false
+        },
+        {
+          "label": "Kotabaru",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Apa nama Ibukota dari Provinsi Kalimantan Timur?",
+      "options": [
+        {
+          "label": "Mahakam Hulu",
+          "isCorrect": false
+        },
+        {
+          "label": "Kutai Kartanegara",
+          "isCorrect": false
+        },
+        {
+          "label": "Balikpapan",
+          "isCorrect": false
+        },
+        {
+          "label": "Samarinda",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Apa nama Ibukota dari Provinsi Kalimantan Utara?",
+      "options": [
+        {
+          "label": "Tarakan",
+          "isCorrect": false
+        },
+        {
+          "label": "Tanjung Selor",
+          "isCorrect": true
+        },
+        {
+          "label": "Nunukan",
+          "isCorrect": false
+        },
+        {
+          "label": "Malinau",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Apa nama Ibukota dari Provinsi Sulawesi Utara?",
+      "options": [
+        {
+          "label": "Manado",
+          "isCorrect": true
+        },
+        {
+          "label": "Minahasa",
+          "isCorrect": false
+        },
+        {
+          "label": "Minahasa Utara",
+          "isCorrect": false
+        },
+        {
+          "label": "Bitung",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Apa nama Ibukota dari Provinsi Sulawesi Tengah?",
+      "options": [
+        {
+          "label": "Barito Selatan",
+          "isCorrect": false
+        },
+        {
+          "label": "Palu",
+          "isCorrect": true
+        },
+        {
+          "label": "Marowali",
+          "isCorrect": false
+        },
+        {
+          "label": "Poso",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "text": "Apa nama Ibukota dari Provinsi Sulawesi Selatan?",
+      "options": [
+        {
+          "label": "Makasar",
+          "isCorrect": true
+        },
+        {
+          "label": "Bone",
+          "isCorrect": false
+        },
+        {
+          "label": "Gowa",
+          "isCorrect": false
+        },
+        {
+          "label": "Parepare",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "text": "Apa nama Ibukota dari Provinsi Sulawesi Tenggara?",
+      "options": [
+        {
+          "label": "Kaloka",
+          "isCorrect": false
+        },
+        {
+          "label": "Kendari",
+          "isCorrect": true
+        },
+        {
+          "label": "Konawe",
+          "isCorrect": false
+        },
+        {
+          "label": "Wakatobi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "text": "Apa nama Ibukota dari Provinsi Gorontalo?",
+      "options": [
+        {
+          "label": "Boalemo",
+          "isCorrect": false
+        },
+        {
+          "label": "Gorontalo Utara",
+          "isCorrect": false
+        },
+        {
+          "label": "Pahuwato",
+          "isCorrect": false
+        },
+        {
+          "label": "Gorontalo",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "text": "Apa nama Ibukota dari Provinsi Sulawesi Barat?",
+      "options": [
+        {
+          "label": "Mamuju Tengah",
+          "isCorrect": false
+        },
+        {
+          "label": "Mamuju",
+          "isCorrect": true
+        },
+        {
+          "label": "Polewali Mandar",
+          "isCorrect": false
+        },
+        {
+          "label": "Mamasa",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Apa nama Ibukota dari Provinsi Maluku?",
+      "options": [
+        {
+          "label": "Maluku Tenggara",
+          "isCorrect": false
+        },
+        {
+          "label": "Maluku Tengah",
+          "isCorrect": false
+        },
+        {
+          "label": "Ambon",
+          "isCorrect": true
+        },
+        {
+          "label": "Buru",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "text": "Apa nama Ibukota dari Provinsi Maluku Utara?",
+      "options": [
+        {
+          "label": "Halmahera Barat",
+          "isCorrect": false
+        },
+        {
+          "label": "Halmahera Selatan",
+          "isCorrect": false
+        },
+        {
+          "label": "Ternate",
+          "isCorrect": false
+        },
+        {
+          "label": "Sofifi",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Apa nama Ibukota dari Provinsi Papua?",
+      "options": [
+        {
+          "label": "Jayapura",
+          "isCorrect": true
+        },
+        {
+          "label": "Numfor",
+          "isCorrect": false
+        },
+        {
+          "label": "Sopiori",
+          "isCorrect": false
+        },
+        {
+          "label": "Waropen",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "text": "Apa nama Ibukota dari Provinsi Papua Barat?",
+      "options": [
+        {
+          "label": "fakfak",
+          "isCorrect": false
+        },
+        {
+          "label": "manokwari Selatan",
+          "isCorrect": false
+        },
+        {
+          "label": "Teluk Bintuni",
+          "isCorrect": false
+        },
+        {
+          "label": "Manokwari",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "text": "Apa nama Ibukota dari Provinsi Papua Barat Daya?",
+      "options": [
+        {
+          "label": "Raja Ampat",
+          "isCorrect": false
+        },
+        {
+          "label": "Sorong Selatan",
+          "isCorrect": false
+        },
+        {
+          "label": "Maybrat",
+          "isCorrect": false
+        },
+        {
+          "label": "Sorong",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "text": "Apa nama Ibukota dari Provinsi Papua Tengah?",
+      "options": [
+        {
+          "label": "Puncak Jaya",
+          "isCorrect": false
+        },
+        {
+          "label": "Nabire",
+          "isCorrect": true
+        },
+        {
+          "label": "Mimika",
+          "isCorrect": false
+        },
+        {
+          "label": "Intan Jaya",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Apa nama Ibukota dari Provinsi Papua Penggunungan?",
+      "options": [
+        {
+          "label": "Walesi",
+          "isCorrect": true
+        },
+        {
+          "label": "Jayawijaya",
+          "isCorrect": false
+        },
+        {
+          "label": "Nduga",
+          "isCorrect": false
+        },
+        {
+          "label": "Yahukimo",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "text": "Apa nama Ibukota dari Provinsi Papua Selatan?",
+      "options": [
+        {
+          "label": "Marauke",
+          "isCorrect": true
+        },
+        {
+          "label": "Mappi",
+          "isCorrect": false
+        },
+        {
+          "label": "Boven Digoel",
+          "isCorrect": false
+        },
+        {
+          "label": "Asmat",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
